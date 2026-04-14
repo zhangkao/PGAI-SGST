@@ -1,5 +1,5 @@
 # 3DIP-SGST
-Code for paper: **SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360° Video Saliency Prediction**
+The code for our paper "SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360° Video Saliency Prediction" will be open-sourced in the coming days.
 
 
 ## Output
@@ -8,14 +8,10 @@ And it is easy to change the output format in our code.
 * You can get the color visualization results based on the "Visualization Tools".
 * You can evaluate the performance based on the "EvalScores Tools".
 
-**Results**: [ALL](https://pan.baidu.com/s/1W8PpUkHSHehzgh7tISOQPQ?pwd=aigx) (4.38G)
-
-[Sports360](https://pan.baidu.com/s/1RaMsT49C2BCuhj8-9zzu7g?pwd=y2ir) (2.6G)
-
-[AVS-ODV](https://pan.baidu.com/s/1n09xBRe_AnXW3bFU7wLsLg?pwd=4tgy) (224M)
-
-[SVGC-AVA](https://pan.baidu.com/s/1fJyIzFDM3Nn8-lkF6OI7-g?pwd=r2fk) (1.5G)
-
+**Results**: [ALL](https://pan.baidu.com/s/1W8PpUkHSHehzgh7tISOQPQ?pwd=aigx) (4.38G):
+[Sports360](https://pan.baidu.com/s/1RaMsT49C2BCuhj8-9zzu7g?pwd=y2ir) (2.6G),
+[AVS-ODV](https://pan.baidu.com/s/1n09xBRe_AnXW3bFU7wLsLg?pwd=4tgy) (224M),
+[SVGC-AVA](https://pan.baidu.com/s/1fJyIzFDM3Nn8-lkF6OI7-g?pwd=r2fk) (1.5G),
 [360AV-HM](https://pan.baidu.com/s/1O4fa0p0lKbhUDMDykh9E5A?pwd=ef23) (42M)
 
 
