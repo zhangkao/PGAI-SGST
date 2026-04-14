@@ -10,8 +10,8 @@ And it is easy to change the output format in our code.
 
 **Results**: [ALL](https://pan.baidu.com/s/1W8PpUkHSHehzgh7tISOQPQ?pwd=aigx) (4.38G):
 [Sports360](https://pan.baidu.com/s/1RaMsT49C2BCuhj8-9zzu7g?pwd=y2ir) (2.6G),
-[AVS-ODV](https://pan.baidu.com/s/1n09xBRe_AnXW3bFU7wLsLg?pwd=4tgy) (224M),
 [SVGC-AVA](https://pan.baidu.com/s/1fJyIzFDM3Nn8-lkF6OI7-g?pwd=r2fk) (1.5G),
+[AVS-ODV](https://pan.baidu.com/s/1n09xBRe_AnXW3bFU7wLsLg?pwd=4tgy) (224M),
 [360AV-HM](https://pan.baidu.com/s/1O4fa0p0lKbhUDMDykh9E5A?pwd=ef23) (42M)
 
 
@@ -26,7 +26,6 @@ If you use the SGST 360° video saliency model, please cite the following paper:
   year={2026}
 }
 ```
-
 
 
 ## Contact
