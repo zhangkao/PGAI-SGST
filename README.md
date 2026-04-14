@@ -13,9 +13,3 @@ Baidu Pan: https://pan.baidu.com/s/1o4K0N4JAMu7WUnkMT7bt7w
 
 **Extract Code**: ctxn
 
----
-
-## 📋 Note
-If you use our code or results in your research, please cite our paper.
-
-If you have any questions, please feel free to contact us.
