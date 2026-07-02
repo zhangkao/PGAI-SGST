@@ -7,11 +7,7 @@ from timm.models.vision_transformer import VisionTransformer
 import os
 from timm import create_model
 
-from tensor2img import *
-from visual_patch import *
-from cut_simple import *
-from tensor2img import *
-from visual_patch import *
+
 from patch_simple_torch2 import *
 from gauss import *
 os.environ["CUDA_VISIBLE_DEVICES"] = "2"
