@@ -1,5 +1,5 @@
 # PGAI-SGST
-The code for our paper "SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360° Video Saliency Prediction" will be open-sourced in the coming days.
+The code for our paper "SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360° Video Saliency Prediction".
 
 
 ## Output
