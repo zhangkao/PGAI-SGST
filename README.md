@@ -16,6 +16,8 @@ And it is easy to change the output format in our code.
 
 
 ## Paper & Citation
+[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Zhang_SGST-Transformer_A_Spherical_Geometry-Aware_Spatio-Temporal_Transformer_for_360deg_Video_Saliency_CVPRF_2026_paper.pdf),
+[supplemental](https://openaccess.thecvf.com/content/CVPR2026F/supplemental/Zhang_SGST-Transformer_A_Spherical_CVPRF_2026_supplemental.pdf)
 
 If you use the SGST 360° video saliency model, please cite the following paper: 
 ```
