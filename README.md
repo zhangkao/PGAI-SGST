@@ -1,6 +1,8 @@
 # 3DIP-SGST
-The code for our paper "SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360° Video Saliency Prediction".
 
+It is a re-implementation code for the SGST model.
+* Kao Zhang, Tao Song, Zhihua Hu, Ming Li, Xin Ding. SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360 Video Saliency Prediction. IEEE CVPR Findings 2026. <br />
+Github: https://github.com/zhangkao/3DIP-SGST
 
 ## Output
 And it is easy to change the output format in our code.
