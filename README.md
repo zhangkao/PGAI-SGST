@@ -1,7 +1,10 @@
 # 3DIP-SGST
 
 It is a re-implementation code for the SGST model.
-* Kao Zhang, Tao Song, Zhihua Hu, Ming Li, Xin Ding. SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360 Video Saliency Prediction. IEEE CVPR Findings 2026. <br />
+* Kao Zhang, Tao Song, Zhihua Hu, Ming Li, Xin Ding. SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360 Video Saliency Prediction. IEEE CVPR Findings 2026.
+[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Zhang_SGST-Transformer_A_Spherical_Geometry-Aware_Spatio-Temporal_Transformer_for_360deg_Video_Saliency_CVPRF_2026_paper.pdf), 
+[Supplemental](https://openaccess.thecvf.com/content/CVPR2026F/supplemental/Zhang_SGST-Transformer_A_Spherical_CVPRF_2026_supplemental.pdf), 
+[Poster](https://pan.baidu.com/s/17un_pzZZMePIwm2xa4c3hQ?pwd=7iw6). <br />
 Github: https://github.com/zhangkao/3DIP-SGST
 
 ## Output
@@ -21,9 +24,6 @@ This research was funded by: the National Natural Science Foundation of China (G
 
 
 ## Paper & Citation
-[Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Zhang_SGST-Transformer_A_Spherical_Geometry-Aware_Spatio-Temporal_Transformer_for_360deg_Video_Saliency_CVPRF_2026_paper.pdf), 
-[Supplemental](https://openaccess.thecvf.com/content/CVPR2026F/supplemental/Zhang_SGST-Transformer_A_Spherical_CVPRF_2026_supplemental.pdf), 
-[Poster](https://pan.baidu.com/s/17un_pzZZMePIwm2xa4c3hQ?pwd=7iw6).
 
 If you use the SGST 360° video saliency model, please cite the following paper: 
 ```
