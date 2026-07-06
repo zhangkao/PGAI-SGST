@@ -1,4 +1,4 @@
-# PGAI-SGST
+# 3DIP-SGST
 The code for our paper "SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360° Video Saliency Prediction".
 
 
@@ -19,11 +19,13 @@ And it is easy to change the output format in our code.
 
 If you use the SGST 360° video saliency model, please cite the following paper: 
 ```
-@inproceedings{zhang2026SGST,
-  title={SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360° Video Saliency Prediction},
-  author={Zhang, Kao and Song, Tao and Hu, Zhuhua and Li, Ming and Ding, Xin},
-  booktitle={Findings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  year={2026}
+@InProceedings{Zhang_2026_CVPR,
+    author    = {Zhang, Kao and Song, Tao and Hu, Zhihua and Li, Ming and Ding, Xin},
+    title     = {SGST-Transformer: A Spherical Geometry-Aware Spatio-Temporal Transformer for 360deg Video Saliency Prediction},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings},
+    month     = {June},
+    year      = {2026},
+    pages     = {2596-2605}
 }
 ```
 
