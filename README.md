@@ -16,6 +16,9 @@ And it is easy to change the output format in our code.
 [AVS-ODV](https://pan.baidu.com/s/1n09xBRe_AnXW3bFU7wLsLg?pwd=4tgy) (224M),
 [360AV-HM](https://pan.baidu.com/s/1O4fa0p0lKbhUDMDykh9E5A?pwd=ef23) (42M)
 
+# Acknowledgments
+This research was funded by the National Natural Science Foundation of China (Grant No. 62201404) and The Startup Foundation for Introducing Talent of NUIST (Grant No. 2024r061), and the Postgraduate Research & Practice Innovation Program of Jiangsu Province (Grant No. KYCX25_1654).
+
 
 ## Paper & Citation
 [Paper](https://openaccess.thecvf.com/content/CVPR2026F/papers/Zhang_SGST-Transformer_A_Spherical_Geometry-Aware_Spatio-Temporal_Transformer_for_360deg_Video_Saliency_CVPRF_2026_paper.pdf),
