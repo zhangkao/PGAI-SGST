@@ -18,7 +18,7 @@ And it is easy to change the output format in our code.
 
 # Acknowledgments
 This research was funded by: <br />
-the National Natural Science Foundation of China (Grant No. 62201404) <br />
+The National Natural Science Foundation of China (Grant No. 62201404) <br />
 The Startup Foundation for Introducing Talent of NUIST (Grant No. 2024r061) <br />
 The Postgraduate Research & Practice Innovation Program of Jiangsu Province (Grant No. KYCX25_1654).
 
