@@ -40,6 +40,7 @@ If you use the SGST 360° video saliency model, please cite the following paper:
 
 ## Contact
 Kao ZHANG  <br />
-Perceptual and Generative AI Lab (PGAI Lab)<br />
+3D Reconstruction and Image Processing Research Group (3DIP) <br />
+Perceptual and Generative AI Lab (PGAI Lab) <br />
 Nanjing University of Information Science and Technology, Nanjing, China.  <br />
 Email: kaozhang@nuist.edu.cn  <br />
